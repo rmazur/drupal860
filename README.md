@@ -1,4 +1,4 @@
-# drupal860
+# Drupal860
 https://blog.openshift.com/create-s2i-builder-image/
 
 https://github.com/openshift/source-to-image
